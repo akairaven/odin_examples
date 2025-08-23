@@ -2,4 +2,5 @@
 
 Examples for Odin programming language
 
-Currently working on adding SDL3
+# odin examples sdl3
+ - work in progress as I learn to use
