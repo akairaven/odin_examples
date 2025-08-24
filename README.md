@@ -1,6 +1,5 @@
-# odin_examples
+# odin examples SDL3
 
-Examples for Odin programming language
+Examples for SLD3 in Odin programming language
 
-## odin examples sdl3
  - work in progress as I learn to use
